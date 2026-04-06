@@ -1,5 +1,4 @@
-# FUTURE_DS_02
-📊 Bank Customer Churn Analysis Dashboard (Power BI)
+# 📊 Bank Customer Churn Analysis Dashboard (Power BI)
 
 🎯 Objective
 
